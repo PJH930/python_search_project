@@ -1,4 +1,5 @@
 import os
+import data
 import shutil
 import subprocess
 import sys
@@ -33,14 +34,8 @@ class WindowClass(QMainWindow, form_class):
         self.search_word_save = []
 
         # 검색 가능 리스트
-        self.search_word_all = {
-            "print()": "print(출력변수)\n"
-                       "a = ",
-            "sum()": "sum(변수)\n"
-                     "",
-            "split()": "객체.split()\n"
-                        ""
-        }
+        self.my_dict = data.my_dict
+        self.search_word_all = self.my_dict
 
         # 검색버튼
         self.pushButton_1.clicked.connect(self.search_word)
