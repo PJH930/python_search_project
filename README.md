@@ -10,6 +10,7 @@
 </br>
 ** python pyqt5
 </br>
+* 사용 </br>
 
 https://github.com/PJH930/python_search_project/assets/117810524/ac820885-27da-48b3-98c5-f0edffcbba4d
 
