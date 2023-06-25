@@ -17,8 +17,8 @@ python의 메소드와 내장함수를 검색하면 <br>
 </br></br></br></br>
 ## Usage
 </br>
-1. pyshon_pj1.xlsx 파일에 key값을 입력
-2. pyshon_pj2.xlsx 파일에 value값을 입력
+1. pyshon_pj1.xlsx 파일에 key값을 입력</br>
+2. pyshon_pj2.xlsx 파일에 value값을 입력</br>
 
 
 
